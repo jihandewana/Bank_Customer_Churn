@@ -1,5 +1,7 @@
 # Bank Customer Churn Analysis using Python! 📊
 
+🚀 **Click [here](https://colab.research.google.com/drive/1O-DiWicOa-e-NsU4hr9gJGzkUsmsHwhp?usp=sharing) to view the full interactive notebook on Google Colab**
+
 ## Project Description 
 Customer churn is a critical issue for any business, and this project dives deep into a dataset of 10,000 customers to identify the key factors driving attrition. I focused on building a robust model to identify high-value customers at risk of churning, enabling proactive retention efforts. 🎯 
 
@@ -11,7 +13,7 @@ Kaggle >> [Bank Customer Churn](https://www.kaggle.com/datasets/radheshyamkollip
 - Preprocessed and cleaned the data to ensure accuracy. ✔️ 
 - Built and evaluated several machine learning models, including Gradient Boosting. ✔️
 
-## 💡 Key takeaway: 
+## 🔮 Key takeaway: 
 - **The Gradient Boosting** model emerged as the top performer, providing robust insights.
 - **Churn rates are influenced by geographical location**. While most customers are from France, the data shows that Germany has the highest churn rate. This disparity could
 stem from external factors as well as differing banking regulations, cultural norms, or fluctuations in interest rates across regions.
